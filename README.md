@@ -9,4 +9,4 @@ I am Akshay Sharma , a BE CSE Student at Army Institute of Technology interested
     [Facebook](https://www.facebook.com/sharma.akshay.me)
     [Instagram](https://www.instagram.com/akshay_overhere/)
 - 😄 Positions - [DSC Lead](https://dsc.community.dev/savitribai-phule-pune-university/) and Secretary at [Open Source Software Club](https://github.com/orgs/aitoss/dashboard) @ AIT
-- ⚡ Interested in Internships as a Software Developer and Build amazing application for you Company.
+- ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
