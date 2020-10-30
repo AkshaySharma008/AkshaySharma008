@@ -48,7 +48,6 @@ I am Akshay Sharma , a BE CSE Student at Army Institute of Technology interested
 
 <br />
 
-![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=AkshaySharma008&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AkshaySharma008.AkshaySharma008)
 
