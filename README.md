@@ -45,10 +45,14 @@ I am Akshay Sharma , a BE CSE Student at Army Institute of Technology interested
 </a>
 </div>
 
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<div>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AkshaySharma008.AkshaySharma008)
-
+<div>
 
 
 [twitter]: https://twitter.com/akshay8844
