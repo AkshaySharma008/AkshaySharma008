@@ -34,11 +34,26 @@ I am Akshay Sharma , a BE CSE Student at Army Institute of Technology interested
 
 <br />
 
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=AkshaySharma008&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=AkshaySharma008&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AkshaySharma008&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AkshaySharma008&hide=php&theme=tokyonight" />
+</a>
+</div>
+
+
+<br />
+
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=AkshaySharma008&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AkshaySharma008.AkshaySharma008)
 
----
+
+
 [twitter]: https://twitter.com/akshay8844
 [instagram]: https://instagram.com/me.akshay.sharma
 [linkedin]: https://www.linkedin.com/in/akshaysharma008/
