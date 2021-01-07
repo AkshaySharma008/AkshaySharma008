@@ -8,8 +8,9 @@ I am [Akshay Sharma](https://akshay.aitoss.club/) , a BE CSE Student at Army Ins
     [Twitter](https://twitter.com/akshay8844) 
     [Facebook](https://www.facebook.com/sharma.akshay.me)
     [Instagram](https://www.instagram.com/akshay_overhere/)
-- 😄 Positions - [DSC Lead](https://dsc.community.dev/savitribai-phule-pune-university/) and Secretary at [Open Source Software Club](https://github.com/orgs/aitoss/dashboard) @ AIT
+- 😄 Positions - [DSC Lead](https://dsc.community.dev/army-institute-of-technology/) and Secretary at [Open Source Software Club](https://github.com/orgs/aitoss/dashboard) @ AIT
 - ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
+- ⚡ Some Full stack projects build by me to help students in my college , [OSS Wesbite](https://aitoss.club) and [Project Anubhav](https://anubhav.aitoss.clubd)
 
 
 ### We can have chat at any social platform:
