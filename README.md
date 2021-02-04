@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am [Akshay Sharma](https://akshay.aitoss.club/) , a BE CSE Student at Army Institute of Technology interested in making web applications and making them scalable.
+I am [Akshay Sharma](https://akshaysharma.co.in/) , a BE CSE Student at Army Institute of Technology interested in making web applications and making them scalable.
 
 - 🔭 I’m currently working on my Laptop xd :).
 - 🌱 I’m currently learning MEAN Stack.
