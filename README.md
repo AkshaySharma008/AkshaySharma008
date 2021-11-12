@@ -1,16 +1,16 @@
 ### Hi there 👋
 I am [Akshay Sharma](https://akshaysharma.co.in/) , a BE CSE Student at Army Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
 
-- 🔭 I’m currently working on my Laptop xd :).
+- 🔭 I’m currently working at [BharatPe](https://github.com/bharatpe) as Frontend Developer.
 - 🌱 I’m know how to build applications with MEAN/MERN Stack and deploy them completely at ready to use level.
 - 📫 How to reach me: 
     [LinkedIn](https://www.linkedin.com/in/akshaysharma008/)
     [Twitter](https://twitter.com/akshay8844) 
     [Facebook](https://www.facebook.com/sharma.akshay.me)
     [Instagram](https://www.instagram.com/me.akshay.sharma/)
-- 😄 Positions - [Ex. GDSC Lead](https://dsc.community.dev/army-institute-of-technology/) and Secretary at [Open Source Software Club](https://github.com/orgs/aitoss/dashboard) @ AIT
+- 😄 Positions - [Ex. GDSC Lead](https://dsc.community.dev/army-institute-of-technology/) and Ex. Secretary at [Open Source Software Club](https://github.com/orgs/aitoss/dashboard) @ AIT
 - ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
-- ⚡ Some Full stack projects build by me to help students in my college , [OSS Wesbite](https://aitoss.club),  [Project Anubhav](https://anubhav.aitoss.club) and [XMEME](https://stupefied-hypatia-a8fb74.netlify.app/).
+- ⚡ Some Full stack projects build by me to help students in my college , [OSS Wesbite](https://aitoss.club),  [Project Anubhav](https://anubhav.aitoss.club) and [XMEME](https://stupefied-hypatia-a8fb74.netlify.app/) , [Expense Tracker](https://bright-xpensr.netlify.app/). 
 
 
 ### We can have chat at any social platform:
