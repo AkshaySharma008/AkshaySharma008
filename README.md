@@ -34,17 +34,26 @@ I am [Akshay Sharma](https://akshaysharma.co.in/) , a BE CSE Student at Army Ins
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <br />
+<br />
+
+[![Akshay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkshaySharma008&theme=xcode)](https://git.io/AkshaySharma008)
+
+<br />
 
 ## :trophy: My Github Stats:
 
-<div>
+<!-- <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=AkshaySharma008&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=AkshaySharma008&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AkshaySharma008&hide=php&theme=tokyonight">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AkshaySharma008&hide=php&theme=tokyonight" />
 </a>
-</div>
+</div> -->
+
+| ![Akshay's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=AkshaySharma008&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshaySharma008) |
+| --- | --- |
+| ![Akshay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkshaySharma008) | If you like what I do, support me by buying me a [Coffee](https://www.buymeacoffee.com/AkshaySharma008) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/AkshaySharma008" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a> |
 
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AkshaySharma008.AkshaySharma008)
