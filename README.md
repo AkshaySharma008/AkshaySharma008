@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am [Akshay Sharma](https://akshaysharma.co.in/) , a BE CSE Student at Army Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
+I am [Akshay Sharma](https://portfolio.akshaysharma.co.in/) , a BE CSE Student at Army Institute of Technology interested in making scalable web applications which can be used by people and help them to do certain work easily.
 
 - 🔭 I’m currently working at [BharatPe](https://github.com/bharatpe) as Frontend Developer.
 - 🌱 I’m know how to build applications with MEAN/MERN Stack and deploy them completely at ready to use level.
