@@ -12,6 +12,7 @@ I am [Akshay Sharma](https://portfolio.akshaysharma.co.in/) , a BE CSE Student a
 - ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
 - ⚡ Some Full stack projects build by me to help students in my college , [OSS Wesbite](https://aitoss.club),  [Project Anubhav](https://anubhav.aitoss.club) and [XMEME](https://stupefied-hypatia-a8fb74.netlify.app/) , [Expense Tracker](https://bright-xpensr.netlify.app/). 
 
+- At Present, Building Frontend at BharatPe - [Check out my contributions](https://github.com/AkshaySharma-BharatPe)
 
 ### We can have chat at any social platform:
 
